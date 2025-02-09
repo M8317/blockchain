@@ -1,6 +1,7 @@
 # Blockchain
 
-Ce projet est une implémentation simple d'une Blockchain avec un mécanisme de Proof of Work (PoW). Il permet d'ajouter des transactions, de miner des blocs et de valider la chaîne.
+Ce projet est une implémentation simple d'une Blockchain avec un mécanisme de Proof of Work (PoW). Il permet d'ajouter des transactions, de miner des blocs et de valider la chaîne. 
+### Le code du projet se trouve sur la Branche ML.
 
 
 
